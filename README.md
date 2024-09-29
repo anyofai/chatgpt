@@ -2,7 +2,7 @@
 
 <p align="center">最近更新于2024年9月29日</p>
 
-![最新ChatGPT注册教程：国内如何注册ChatGPT帐号](image URL)
+![最新ChatGPT注册教程：国内如何注册ChatGPT帐号](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C.png)
 
 ChatGPT是最近这两年最火爆且最好用的AI工具之一，作为OpenAI推出的大型语言模型，它不仅能够进行智能对话，还具备强大的文本生成、翻译、代码编写等多种功能。然而，令人遗憾的是，OpenAI目前尚未向中国大陆用户开放，这意味着中国用户暂时无法直接注册或使用ChatGPT。那么，中国用户该如何注册ChatGPT帐号？如何订阅ChatGPT Plus会员？如何正确使用ChatGPT？我们这篇ChatGPT中文教程将为大家详细解答这些问题，帮助你在中国大陆轻松完成ChatGPT的注册、订阅，并正确高效地使用这款强大的AI工具。
 
@@ -117,31 +117,31 @@ ChatGPT Team版于2023年下半年推出，专为企业和团队用户设计，�
 
 * ChatGPT官网地址：https://chatgpt.com/
 
-![最新ChatGPT注册教程，国内注册ChatGPT帐号步骤一：打开ChatGPT官网，并点击“注册”按钮](image URL)
+![最新ChatGPT注册教程，国内注册ChatGPT帐号步骤一：打开ChatGPT官网，并点击“注册”按钮](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C-1.png)
 
 ### 步骤二：输入你的电子邮箱，并点击“继续”按钮。
 
 注意：你也可以使用现有的Google帐号、Microsoft帐号或Apple帐号登录。
 
-![最新ChatGPT注册教程：国内注册ChatGPT帐号步骤二：输入你的电子邮箱，并点击“继续”按钮](image URL)
+![最新ChatGPT注册教程：国内注册ChatGPT帐号步骤二：输入你的电子邮箱，并点击“继续”按钮](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C-2.png)
 
 ### 步骤三：设置账户密码，并点击“继续”按钮。
 
-![最新ChatGPT注册教程：国内注册ChatGPT帐号步骤三：设置账户密码，并点击“继续”按钮](image URL)
+![最新ChatGPT注册教程：国内注册ChatGPT帐号步骤三：设置账户密码，并点击“继续”按钮](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C-3.png)
 
 ### 步骤四：查看电子邮箱并完成邮箱验证。
 
 打开你的电子邮箱，找到一封来自OpenAI的验证邮件，点击邮件中的“Verify email address”按钮以完成验证。
 
-![最新ChatGPT注册教程：国内注册ChatGPT帐号步骤四：查看电子邮箱并完成邮箱验证](image URL)
+![最新ChatGPT注册教程：国内注册ChatGPT帐号步骤四：查看电子邮箱并完成邮箱验证](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C-4.png)
 
 ### 步骤五：填写姓名和出生日期等信息。
 
-![最新ChatGPT注册教程：国内注册ChatGPT帐号步骤五：填写姓名和出生日期等信息](image URL)
+![最新ChatGPT注册教程：国内注册ChatGPT帐号步骤五：填写姓名和出生日期等信息](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C-5.png)
 
 ### 步骤六：完成ChatGPT注册，开始使用！
 
-![最新ChatGPT注册教程：国内注册ChatGPT帐号步骤六：完成ChatGPT注册，开始使用](image URL)
+![最新ChatGPT注册教程：国内注册ChatGPT帐号步骤六：完成ChatGPT注册，开始使用](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C-6.png)
 
 注意：市面上有很多过时的ChatGPT注册教程，仍要求用户进行手机号码验证。在ChatGPT推出初期，确实需要完成手机验证，且大陆+86手机号无法用于注册。但从2024年开始，注册ChatGPT不再需要手机验证，只有在注册ChatGPT API账号时才需要进行手机号码验证。
 
