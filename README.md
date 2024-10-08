@@ -104,7 +104,7 @@ ChatGPT Team版于2023年下半年推出，专为企业和团队用户设计，�
 
 * 科学上网工具：要求安全性高、连接稳定、速度快，并提供美国、欧洲和东南亚等地区的服务器节点。
 * 电子邮箱：建议使用Gmail或Outlook等海外邮箱，尽量避免使用163和QQ等国内邮箱。
-* 国外虚拟信用卡：用于购买ChatGPT Plus帐号，如果没有，请参考：<a href="https://github.com/anyofai/chatgpt-plus">国内订阅ChatGPT Plus教程</a>。
+* 国外虚拟信用卡：用于购买ChatGPT Plus帐号，如果没有，请参考：<a href="https://github.com/anyofai/anyofai.github.io">国内订阅ChatGPT Plus教程</a>。
 * 专业接码平台：用于获取一个国外手机号码，以接收ChatGPT的验证短信。
 
 在完成了注册ChatGPT前的所有准备工作后，你可以根据我们接下来的详细步骤一步步完成操作。不管是设置科学上网工具、申请虚拟信用卡，还是使用接码平台进行验证，只要按照指南操作，每一步都能顺利完成。
@@ -151,7 +151,7 @@ ChatGPT Team版于2023年下半年推出，专为企业和团队用户设计，�
 
 正如前文提到的，由于OpenAI暂未向中国用户开放，国内用户在尝试订阅ChatGPT Plus时可能会遇到一些额外的困难。最常见的障碍之一是支付方式的限制，因为ChatGPT不支持中国的信用卡或本地支付平台。因此，要成功订阅，最直接有效的解决办法是获取一张安全且稳定的国外虚拟信用卡。
 
-关于如何获取国外虚拟信用卡，以及如何使用它完成ChatGPT Plus的订阅，具体操作步骤请参考我们另一篇文章：<a href="https://github.com/anyofai/chatgpt-plus">国内开通ChatGPT Plus教程</a>。这篇文章将为你详细介绍每个步骤，帮助你轻松完成订阅，畅享ChatGPT Plus的所有高级功能。
+关于如何获取国外虚拟信用卡，以及如何使用它完成ChatGPT Plus的订阅，具体操作步骤请参考我们另一篇文章：<a href="https://github.com/anyofai/anyofai.github.io">国内开通ChatGPT Plus教程</a>。这篇文章将为你详细介绍每个步骤，帮助你轻松完成订阅，畅享ChatGPT Plus的所有高级功能。
 
 ## 如何注册ChatGPT API账户？
 
