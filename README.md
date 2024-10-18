@@ -291,4 +291,4 @@ ChatGPT在初次生成的回答中可能无法完全理解你的意图，这时�
 
 * <a href="https://github.com/anyofai/claude-pro">国内开通购买Claude Pro帐号教程，如何使用支付宝充值订阅Claude Pro会员</a>：本文将重点介绍如何在国内注册Claude帐号，以及如何使用支付宝充值订阅Claude Pro会员。同时，还会解答大家比较关注的Claude Pro帐号共享、Claude Pro帐号合租和Claude Pro代充值等问题。
 
-* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus会员帐号合租共享拼车购买教程</a>：如果你无法解决科学上网的问题，或觉得每月20美元的会员费用过高，可以考虑合租ChatGPT Plus会员。这种方式不仅能够降低使用成本（每月仅需29元），还免去了科学上网的复杂操作。
+* <a href="https://github.com/anyofai/chatgpt-plus-hezu">国内购买ChatGPT Plus合租共享帐号教程</a>：如果你无法解决科学上网的问题，或觉得每月20美元的会员费用过高，可以考虑合租ChatGPT Plus会员。这种方式不仅能够降低使用成本（每月仅需29元），还免去了科学上网的复杂操作。
