@@ -9,7 +9,9 @@ ChatGPT是最近这两年最火爆且最好用的AI工具之一，作为OpenAI�
 <blockquote>
 
 * 如果你已经注册好了ChatGPT帐号，并且想要升级成为ChatGPT Plus会员，那么请查看：<a href=https://github.com/anyofai/anyofai.github.io>国内支付宝开通ChatGPT Plus教程</a>。
+
 * 如果你无法解决科学上网的问题，或觉得每月20美元的会员费用过高，那么可以考虑：<a href=https://github.com/anyofai/chatgpt-plus-hezu>购买ChatGPT Plus合租会员（每月仅29元）</a>。
+
 * 如果你觉得订阅ChatGPT Plus会员太麻烦，也可以考虑：<a href=https://github.com/anyofai/chatgpt-plus-recharge>ChatGPT Plus代充值</a>。
 
 </blockquote>
