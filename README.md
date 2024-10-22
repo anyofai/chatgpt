@@ -287,12 +287,14 @@ ChatGPT在初次生成的回答中可能无法完全理解你的意图，这时�
 
 通过这些技巧，你能够更高效地使用ChatGPT，提升工作和学习中的生产力。ChatGPT不仅仅是一个回答问题的工具，它还能为你提供智能化的操作建议，帮助你在复杂场景中事半功倍。
 
-## 其他相关文章
+## 国内注册ChatGPT帐号相关的其他文章：
 
-* <a href="https://anyofai.github.io/">除ChatGPT之外，20款超好用的AI工具推荐</a>：ChatGPT是市场上最强大的AI工具之一，能够轻松应对从日常对话到复杂问题解答，以及内容生成等任务。同时，市面上还有许多优秀的AI工具，它们在文本生成、图像处理和视频创作等领域表现出色，可以补充ChatGPT的功能，进一步提升工作效率。
+* <a href=https://anyofai.github.io/>最好用的AI工具推荐</a>：ChatGPT是市场上最强大的AI工具之一，能够轻松应对从日常对话到复杂问题解答，以及内容生成等任务。同时，市面上还有许多优秀的AI工具，它们在文本生成、图像处理和视频创作等领域表现出色，可以补充ChatGPT的功能，进一步提升工作效率。
 
-* <a href="https://github.com/anyofai/anyofai.github.io">2024年最新ChatGPT Plus订阅升级教程</a>：国内如何使用支付宝购买开通ChatGPT Plus会员！本文将会手把手地教大家如何在中国大陆使用支付宝订阅升级ChatGPT Plus会员，而且本教程亲测真实有效，我们已经稳定使用ChatGPT Plus一年多，没有遇到任何问题。
+* <a href=https://github.com/anyofai/anyofai.github.io>国内支付宝开通ChatGPT Plus教程</a>：本文将会手把手地教大家如何在中国大陆使用支付宝订阅ChatGPT Plus会员，而且本教程亲测真实有效，我们已经稳定使用ChatGPT Plus一年多，没有遇到任何问题。此外，ChatGPT Plus开通的整个流程也仅需十分钟！
 
-* <a href="https://github.com/anyofai/claude-pro">国内开通购买Claude Pro帐号教程，如何使用支付宝充值订阅Claude Pro会员</a>：本文将重点介绍如何在国内注册Claude帐号，以及如何使用支付宝充值订阅Claude Pro会员。同时，还会解答大家比较关注的Claude Pro帐号共享、Claude Pro帐号合租和Claude Pro代充值等问题。
+* <a href=https://github.com/anyofai/claude-pro>国内购买Claude Pro教程</a>：本文将重点介绍如何在国内注册Claude帐号，以及如何使用支付宝充值订阅Claude Pro会员。同时，还会解答大家比较关注的Claude Pro帐号共享、Claude Pro帐号合租和Claude Pro代充值等问题。本教程亲测真实有效，而且升级订阅Claude Pro的整个流程也仅需十多分钟！
 
-* <a href="https://github.com/anyofai/chatgpt-plus-hezu">国内购买ChatGPT Plus合租共享帐号教程</a>：如果你无法解决科学上网的问题，或觉得每月20美元的会员费用过高，可以考虑合租ChatGPT Plus会员。这种方式不仅能够降低使用成本（每月仅需29元），还免去了科学上网的复杂操作。
+* <a href=https://github.com/anyofai/chatgpt-plus-hezu>购买ChatGPT Plus合租帐号教程</a>：如果你无法解决科学上网的问题，或觉得每月20美元的会员费用过高，可以考虑购买ChatGPT Plus合租帐号。这种方式不仅能够降低使用成本，还免去了科学上网的复杂操作。
+
+* <a href=https://github.com/anyofai/chatgpt-plus-recharge>支付宝充值ChatGPT Plus教程</a>：如何使用支付宝为ChatGPT Plus充值？目前，中国用户为ChatGPT-4充值的主要方式包括使用虚拟信用卡和Apple礼品卡。我们还将为大家推荐一些可靠的ChatGPT Plus代充值平台，帮助用户找到最适合自己的充值方式。
