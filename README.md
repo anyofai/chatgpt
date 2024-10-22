@@ -6,7 +6,13 @@
 
 ChatGPT是最近这两年最火爆且最好用的AI工具之一，作为OpenAI推出的大型语言模型，它不仅能够进行智能对话，还具备强大的文本生成、翻译、代码编写等多种功能。然而，令人遗憾的是，OpenAI目前尚未向中国大陆用户开放，这意味着中国用户暂时无法直接注册或使用ChatGPT。那么，中国用户该如何注册ChatGPT帐号？如何订阅ChatGPT Plus会员？如何正确使用ChatGPT？我们这篇ChatGPT中文教程将为大家详细解答这些问题，帮助你在中国大陆轻松完成ChatGPT的注册、订阅，并正确高效地使用这款强大的AI工具。
 
-注意：如果你已经有ChatGPT帐号了，并想升级成为Plus会员，那么请查看：<a href=https://github.com/anyofai/anyofai.github.io>国内支付宝开通ChatGPT Plus教程</a>。
+<blockquote>
+
+* 如果你已经注册好了ChatGPT帐号，并且想要升级成为ChatGPT Plus会员，那么请查看：<a href=https://github.com/anyofai/anyofai.github.io>国内支付宝开通ChatGPT Plus教程</a>。
+* 如果你无法解决科学上网的问题，或觉得每月20美元的会员费用过高，那么可以考虑：<a href=https://github.com/anyofai/chatgpt-plus-hezu>购买ChatGPT Plus合租会员（每月仅29元）</a>。
+* 如果你觉得订阅ChatGPT Plus会员太麻烦，也可以考虑：<a href=https://github.com/anyofai/chatgpt-plus-recharge>ChatGPT Plus代充值</a>。
+
+</blockquote>
 
 ## ChatGPT基本情况介绍
 
