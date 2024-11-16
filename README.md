@@ -298,3 +298,5 @@ ChatGPT在初次生成的回答中可能无法完全理解你的意图，这时�
 * <a href=https://github.com/anyofai/chatgpt-plus-hezu>购买ChatGPT Plus合租帐号教程</a>：如果你无法解决科学上网的问题，或觉得每月20美元的会员费用过高，可以考虑购买ChatGPT Plus合租帐号。这种方式不仅能够降低使用成本，还免去了科学上网的复杂操作。
 
 * <a href=https://github.com/anyofai/chatgpt-plus-recharge>支付宝充值ChatGPT Plus教程</a>：如何使用支付宝为ChatGPT Plus充值？目前，中国用户为ChatGPT-4充值的主要方式包括使用虚拟信用卡和Apple礼品卡。我们还将为大家推荐一些可靠的ChatGPT Plus代充值平台，帮助用户找到最适合自己的充值方式。
+
+* <a href="https://github.com/anyofai/poe">国内充值购买Poe帐号教程</a>：本文将手把手地教大家如何快速获取一张WildCard虚拟信用卡，并使用该卡为Poe充值。而且，本Poe订阅教程经过亲测，真实有效且安全可靠，整个Poe购买流程最快仅需十五分钟即可完成。
