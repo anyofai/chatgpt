@@ -123,7 +123,7 @@ ChatGPT Team版于2023年下半年推出，专为企业和团队用户设计，�
 
 ### 步骤一：打开ChatGPT官网，并点击“注册”按钮。**
 
-* ChatGPT官网地址：https://chatgpt.com/
+* ChatGPT官网地址：chatgpt.com
 
 ![最新ChatGPT注册教程，国内注册ChatGPT帐号步骤一：打开ChatGPT官网，并点击“注册”按钮](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C-1.png)
 
