@@ -14,7 +14,7 @@ ChatGPT是最近这两年最火爆且最好用的AI工具之一，作为OpenAI�
 
 * 如果你只想购买一个月的ChatGPT Plus会员，或者实在不想自己动手去订阅ChatGPT Plus会员，并且你的预算非常充足（因为ChatGPT Plus代充值需要支付较高的手续费），那么你也可以通过可靠的第三方平台帮你充值ChatGPT Plus会员。更多详情请查看：<a href=https://github.com/anyofai/chatgpt-plus-recharge>ChatGPT Plus代充值</a>。
 
-* 如果你现在还没有ChatGPT基础账号，并且也不想自己动手注册ChatGPT账号，那么你也可以通过可靠的第三方平台直接获取一个现成的ChatGPT账号。更多详情请查看：ChatGPT账号购买。
+* 如果你现在还没有ChatGPT基础账号，并且也不想自己动手注册ChatGPT账号，那么你也可以通过可靠的第三方平台直接获取一个现成的ChatGPT账号。更多详情请查看：<a href="https://github.com/anyofai/chatgpt?tab=readme-ov-file#%E5%9B%BD%E5%86%85chatgpt%E5%B8%90%E5%8F%B7%E8%B4%AD%E4%B9%B0%E5%B9%B3%E5%8F%B0%E6%8E%A8%E8%8D%90">ChatGPT账号购买</a>。
 
 </blockquote>
 
