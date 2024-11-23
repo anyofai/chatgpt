@@ -173,7 +173,7 @@ ChatGPT的API（应用程序编程接口）为开发者提供了极大的灵活�
 
 首先，打开浏览器，访问 OpenAI开发者平台。进入页面后，点击右上角的“Sign Up”按钮进入注册页面。
 
-* OpenAI开发者平台地址：https://platform.openai.com/
+* OpenAI开发者平台地址：platform.openai.com
 
 **步骤二：填写注册信息**
 
@@ -245,7 +245,7 @@ ChatGPT兼容多种设备，用户可以随时随地访问。无论是需要在�
 
 * 1，电脑和笔记本
 
-ChatGPT可以在所有主流操作系统（如Windows、MacOS、Linux）上的现代浏览器中使用。只需打开浏览器，访问ChatGPT官方网站（ https://chat.openai.com ），登录后即可开始使用。对于需要频繁输入或进行多轮对话的用户，如编程和写作，电脑或笔记本设备会更加适合。
+ChatGPT可以在所有主流操作系统（如Windows、MacOS、Linux）上的现代浏览器中使用。只需打开浏览器，访问ChatGPT官方网站（ chat.openai.com ），登录后即可开始使用。对于需要频繁输入或进行多轮对话的用户，如编程和写作，电脑或笔记本设备会更加适合。
 
 * 2，智能手机和平板
 
