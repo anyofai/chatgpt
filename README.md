@@ -8,9 +8,13 @@ ChatGPT是最近这两年最火爆且最好用的AI工具之一，作为OpenAI�
 
 <blockquote>
 
-* 如果你已经注册好了ChatGPT帐号，并且想要升级成为ChatGPT Plus会员，那么请查看：<a href=https://github.com/anyofai/anyofai.github.io>国内支付宝开通ChatGPT Plus教程</a>。
-* 如果你无法解决科学上网的问题，或觉得每月20美元的会员费用过高，那么可以考虑：<a href=https://github.com/anyofai/chatgpt-plus-hezu>购买ChatGPT Plus合租会员（每月仅29元）</a>。
-* 如果你觉得订阅ChatGPT Plus会员太麻烦，也可以考虑：<a href=https://github.com/anyofai/chatgpt-plus-recharge>ChatGPT Plus代充值</a>。
+* 如果你已经准备好了ChatGPT基础账号，并且在工作和生活中对ChatGPT Plus的使用频率较高，或者对隐私安全有较高要求，那么我们建议你升级订阅ChatGPT Plus会员。更多详情请查看：<a href=https://github.com/anyofai/anyofai.github.io>ChatGPT Plus开通教程</a>！
+
+* 如果你无法解决科学上网的问题，或者觉得每月20美金的会员费用过高，或者只是偶尔使用ChatGPT Plus会员且对隐私安全要求较低，那么你可以考虑与其他用户共享一个ChatGPT Plus账号。更多详情请查看：<a href=https://github.com/anyofai/chatgpt-plus-hezu>合租ChatGPT Plus会员</a>。
+
+* 如果你只想购买一个月的ChatGPT Plus会员，或者实在不想自己动手去订阅ChatGPT Plus会员，并且你的预算非常充足（因为ChatGPT Plus代充值需要支付较高的手续费），那么你也可以通过可靠的第三方平台帮你充值ChatGPT Plus会员。更多详情请查看：<a href=https://github.com/anyofai/chatgpt-plus-recharge>ChatGPT Plus代充值</a>。
+
+* 如果你现在还没有ChatGPT基础账号，并且也不想自己动手注册ChatGPT账号，那么你也可以通过可靠的第三方平台直接获取一个现成的ChatGPT账号。更多详情请查看：ChatGPT账号购买。
 
 </blockquote>
 
