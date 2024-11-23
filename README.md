@@ -157,6 +157,24 @@ ChatGPT Team版于2023年下半年推出，专为企业和团队用户设计，�
 
 注意：市面上有很多过时的ChatGPT注册教程，仍要求用户进行手机号码验证。在ChatGPT推出初期，确实需要完成手机验证，且大陆+86手机号无法用于注册。但从2024年开始，注册ChatGPT不再需要手机验证，只有在注册ChatGPT API账号时才需要进行手机号码验证。
 
+## 国内ChatGPT帐号购买平台推荐
+
+正如我们在前文提到的，如果你实在不想自己动手注册ChatGPT账号，那么也可以通过国内一些比较可靠的第三方平台直接购买一个现成的ChatGPT账号。不过，我们需要提醒大家，在选择ChatGPT账号购买平台时，一定要选择安全可靠且售后有保障的平台，以确保当你的ChatGPT账号出现问题时，能够及时联系到客服并获得解决。
+
+在众多ChatGPT账号购买平台中，我们推荐大家优先选择：<a href="https://nf.video/BTgSc">银河录像局</a>！该平台已通过中国大陆的工信部备案，合法合规运营，进一步提升了用户的信任度。此外，根据用户反馈，银河录像局的售后服务及时可靠，技术支持响应迅速。以下是使用银河录像局购买ChatGPT账号的具体操作步骤：
+
+### 第一步：打开“银河录像局官网”，点击首页中的“AI服务”，并选择“GPT3.5”。
+
+* 银河录像局官网：<a href="https://nf.video/BTgSc">https://nf.video/BTgSc</a>
+
+![ChatGPT帐号购买第一步：打开“银河录像局官网”，点击首页中的“AI服务”，并选择“GPT3.5”](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT%E5%B8%90%E5%8F%B7%E8%B4%AD%E4%B9%B0-1.jpg)
+
+### 第二步：使用支付宝完成ChatGPT账号购买，并按照系统提示完成后续操作即可。
+
+![ChatGPT帐号购买第二步：使用支付宝完成ChatGPT账号购买，并按照系统提示完成后续操作即可](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT%E5%B8%90%E5%8F%B7%E8%B4%AD%E4%B9%B0-2.jpg)
+
+小结：对于绝大多数普通用户来说，我们建议大家自己手动注册ChatGPT账号，因为注册ChatGPT账号非常简单，仅需一个Gmail邮箱即可快速完成，整个流程仅需1分钟！
+
 ## 如何订阅ChatGPT Plus会员？
 
 如果你想使用ChatGPT的高级功能，需要升级为ChatGPT Plus会员，其订阅费用为每月20美元。许多新手用户可能会认为，成功登录ChatGPT后，只需点击左下角的“Upgrade to Plus”按钮就可以轻松完成订阅。然而，实际操作并非如此简单。
