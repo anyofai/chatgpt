@@ -325,4 +325,6 @@ ChatGPT在初次生成的回答中可能无法完全理解你的意图，这时�
 
 * <a href="https://github.com/anyofai/poe">Poe订阅</a>：本文将手把手地教大家如何快速获取一张WildCard虚拟信用卡，并使用该卡为Poe充值。而且，本Poe订阅教程经过亲测，真实有效且安全可靠，整个Poe购买流程最快仅需十五分钟即可完成。
 
+* <a href="https://github.com/anyofai/sora">如何使用Sora</a>：Sora是什么？如何使用Sora？Sora入口在哪？Sora订阅保姆级教程！
+
 * <a href="https://anyofai.github.io/">最佳AI工具推荐</a>：ChatGPT是市场上最强大的AI工具之一，能够轻松应对从日常对话到复杂问题解答，以及内容生成等任务。同时，市面上还有许多优秀的AI工具，它们在文本生成、图像处理和视频创作等领域表现出色，可以补充ChatGPT的功能，进一步提升工作效率。
