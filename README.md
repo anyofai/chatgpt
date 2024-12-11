@@ -1,6 +1,6 @@
 # 最新ChatGPT注册教程：2024年国内如何注册ChatGPT帐号？
 
-<p align="center">最近更新于2024年11月22日</p>
+<p align="center">最近更新于2024年12月10日</p>
 
 ![最新ChatGPT注册教程：国内如何注册ChatGPT帐号](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C.png)
 
@@ -324,6 +324,8 @@ ChatGPT在初次生成的回答中可能无法完全理解你的意图，这时�
 * <a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>：本文推荐的Claude Pro代充服务采用的都是纯人工充值方式，价格非常实惠，提供24小时在线客服，稳定靠谱，独享Claude成品号！
 
 * <a href="https://github.com/anyofai/poe">Poe订阅</a>：本文将手把手地教大家如何快速获取一张WildCard虚拟信用卡，并使用该卡为Poe充值。而且，本Poe订阅教程经过亲测，真实有效且安全可靠，整个Poe购买流程最快仅需十五分钟即可完成。
+
+* <a href="https://github.com/anyofai/onlyfans">OnlyFans订阅</a>：Onlyfans怎样玩？中国人怎么用OnlyFans？Onlyfans官网是哪个？如何注册Onlyfans帐号？国内如何订阅Onlyfans呢？接下来本文将为你详细解答这些问题。
 
 * <a href="https://github.com/anyofai/sora">如何使用Sora</a>：Sora是什么？如何使用Sora？Sora入口在哪？Sora订阅保姆级教程！
 
