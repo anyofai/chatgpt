@@ -181,7 +181,7 @@ ChatGPT Team版于2023年下半年推出，专为企业和团队用户设计，�
 
 正如前文提到的，由于OpenAI暂未向中国用户开放服务，国内用户在尝试订阅ChatGPT Plus时可能会面临一些额外的困难。其中最常见的问题之一是支付方式的限制，因为ChatGPT不支持中国发行的信用卡或本地支付平台。因此，要成功订阅ChatGPT Plus，最直接且有效的解决方案是获取一张安全、稳定的国外虚拟信用卡。
 
-如果你想了解如何获取国外虚拟信用卡，以及使用它完成ChatGPT Plus订阅的具体操作步骤，请参考我们另一篇文章：<a href="https://github.com/anyofai/anyofai.github.io">国内ChatGPT Plus订阅教程</a>。
+如果你想了解如何获取国外虚拟信用卡，以及使用它完成ChatGPT Plus订阅的具体操作步骤，请参考我们另一篇文章：<a href="https://github.com/anyofai/anyofai.github.io">GPT Plus充值</a>。
 
 ## 如何注册ChatGPT API账户？
 
