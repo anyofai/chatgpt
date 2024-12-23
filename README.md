@@ -8,7 +8,7 @@ ChatGPT是最近这两年最火爆且最好用的AI工具之一，作为OpenAI�
 
 <blockquote>
 
-* 如果你已经准备好了ChatGPT基础账号，并且在工作和生活中对ChatGPT Plus的使用频率较高，或者对隐私安全有较高要求，那么我们建议你自己动手升级订阅ChatGPT Plus会员。更多详情请查看：<a href=https://github.com/anyofai/anyofai.github.io>ChatGPT Plus充值</a>！
+* 如果你已经准备好了ChatGPT基础账号，并且在工作和生活中对ChatGPT Plus的使用频率较高，或者对隐私安全有较高要求，那么我们建议你自己动手升级订阅ChatGPT Plus会员。更多详情：<a href=https://github.com/anyofai/anyofai.github.io>ChatGPT Plus充值</a>！
 
 * 如果你无法解决科学上网的问题，或者觉得每月20美金的会员费用过高，或者只是偶尔使用ChatGPT Plus会员且对隐私安全要求较低，那么你可以考虑与其他用户共享一个ChatGPT Plus账号。更多详情请查看：<a href=https://github.com/anyofai/chatgpt-plus-hezu>合租ChatGPT Plus会员</a>。
 
