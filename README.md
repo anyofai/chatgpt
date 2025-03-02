@@ -173,7 +173,7 @@ ChatGPT Team版于2023年下半年推出，专为企业和团队用户设计，�
 
 ![ChatGPT帐号购买第二步：使用支付宝完成ChatGPT账号购买，并按照系统提示完成后续操作即可](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT%E5%B8%90%E5%8F%B7%E8%B4%AD%E4%B9%B0-2.jpg)
 
-小提示：银河录像局不仅提供ChatGPT帐号，还提供<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>、<a href="https://github.com/anyofai/netflix-hezu">Netflix合租</a>、<a href="https://github.com/anyofai/youtube-premium">油管合租</a>等服务！而且银河录像局提供的ChatGPT Plus镜像版还支持未降智的ChatGPT Plus、**满血版DeepSeek-R1**、马斯克Grok-3、谷歌Gemini-2 Pro等！
+小提示：银河录像局不仅提供ChatGPT帐号，还提供<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus拼车</a>、<a href="https://github.com/anyofai/netflix-hezu">Netflix合租</a>、<a href="https://github.com/anyofai/youtube-premium">油管合租</a>等服务！而且银河录像局提供的ChatGPT Plus镜像版还支持未降智的ChatGPT Plus、**满血版DeepSeek-R1**、马斯克Grok-3、谷歌Gemini-2 Pro等！
 
 总得来说，对于绝大多数普通用户来说，我们建议大家自己手动注册ChatGPT账号，因为注册ChatGPT账号非常简单，仅需一个Gmail邮箱即可快速完成，整个流程仅需1分钟！
 
