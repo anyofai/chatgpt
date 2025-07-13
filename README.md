@@ -173,7 +173,7 @@ ChatGPT Team版于2023年下半年推出，专为企业和团队用户设计，�
 
 ![ChatGPT帐号购买第二步：使用支付宝完成ChatGPT账号购买，并按照系统提示完成后续操作即可](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT%E5%B8%90%E5%8F%B7%E8%B4%AD%E4%B9%B0-2.jpg)
 
-小提示：银河录像局不仅提供ChatGPT帐号，还提供<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus拼车</a>、<a href="https://github.com/anyofai/netflix-hezu">Netflix合租</a>、<a href="https://github.com/anyofai/youtube-premium">油管合租</a>等服务！而且银河录像局提供的ChatGPT Plus镜像版还支持未降智的ChatGPT Plus、**满血版DeepSeek-R1**、马斯克Grok-3、谷歌Gemini-2 Pro等！
+小提示：银河录像局不仅提供ChatGPT帐号，还提供<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus拼车</a>、<a href="https://github.com/anyofai/netflix-hezu">Netflix合租</a>、<a href="https://github.com/anyofai/youtube-premium">油管合租</a>等服务！而且银河录像局提供的ChatGPT Plus镜像版还支持未降智的ChatGPT Plus、**满血版DeepSeek-R1**、马斯克Grok-4、谷歌Gemini-2 Pro等！
 
 总得来说，对于绝大多数普通用户来说，我们建议大家自己手动注册ChatGPT账号，因为注册ChatGPT账号非常简单，仅需一个Gmail邮箱即可快速完成，整个流程仅需1分钟！
 
@@ -317,12 +317,12 @@ ChatGPT在初次生成的回答中可能无法完全理解你的意图，这时�
 * <a href="https://github.com/anyofai/claude-pro">Claude Pro订阅</a>：详细介绍如何获取国外虚拟信用卡和国外手机号，以及订阅Claude Pro的完整操作流程！
 * <a href="https://github.com/anyofai/midjourney">Midjourney订阅</a>：涵盖Midjourney账号注册和会员订阅的详细操作步骤，附带Midjourney使用教程！
 * <a href="https://github.com/anyofai/poe">Poe订阅</a>：包含国内订阅POE会员的详细操作步骤，以及如何购买POE合租账号的指南！
-* <a href="https://github.com/anyofai/x-twitter">Twitter X订阅</a>：提供订阅Twitter X的详细操作步骤，以及Grok 3的使用指南！
+* <a href="https://github.com/anyofai/x-twitter">Twitter X订阅</a>：提供订阅Twitter X的详细操作步骤，以及Grok 4的使用指南！
 * <a href="https://github.com/anyofai/onlyfans">OnlyFans订阅</a>：包括订阅OnlyFans的详细操作步骤，以及OnlyFans怎样玩和中国人怎么用OnlyFans！
 * <a href="https://github.com/anyofai/suno">Suno订阅</a>：提供订阅Suno AI会员的详细操作步骤，以及Suno AI音乐创作的使用指南！
 * <a href="https://github.com/anyofai/sora">Sora订阅</a>：包含订阅Sora的详细操作步骤和Sora的使用方法！
 
-* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：支持ChatGPT-4.5、DeepSeek-R1、Grok-3和Gemini-2 Pro等大模型！每月仅需27元！
+* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：支持ChatGPT-4.5、DeepSeek-R1、Grok-4和Gemini-2 Pro等大模型！每月仅需27元！
 * <a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>：无需科学上网，镜像直连，会话隔离，保障隐私安全，无账号被封风险！每月仅需8元！
 * <a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>：提供国内镜像直连、官方标准会员合租、官方Pro会员合租等三种服务！每月仅需27元！
 * <a href="https://github.com/anyofai/netflix-hezu">Netflix奈飞合租</a>：提供独立子账号、支持设置pin码，可访问Netflix全球影视资源，全程质保！每月仅需20元！
