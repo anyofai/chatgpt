@@ -1,6 +1,6 @@
 # 最新ChatGPT注册教程：2025年国内如何注册ChatGPT帐号？
 
-<p align="center">最近更新于：2025年7月10日</p>
+<p align="center">最近更新于：2025年7月12日</p>
 
 ![最新ChatGPT注册教程：国内如何注册ChatGPT帐号](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C.png)
 
