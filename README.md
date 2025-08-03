@@ -12,6 +12,8 @@ ChatGPT是近两年来最受欢迎、实用性最强的AI工具之一。作为Op
 
 * **重要提示二**：由于政策原因，最安全可靠的WildCard野卡被迫停止运营了，就连不入流的BinGoCard等小型虚拟卡也被波及了。也就是说，目前国内用户几乎无法自己订阅ChatGPT Plus会员了！现如今国内用户若想继续使用ChatGPT Plus会员，基本上只有三条路可走：<a href="https://github.com/anyofai/chatgpt-plus-hezu">合租ChatGPT Plus会员</a>、<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>、<a href="https://github.com/anyofai/chatgpt-plus-hezu">购买ChatGPT Plus原生独立帐号</a>！
 
+![](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-1.png)
+
 </blockquote>
 
 OK，在正式开始介绍ChatGPT注册流程之前，我们也想悄悄地提醒一下大家，**如果你想在iOS设备上下载ChatGPT客户端的话**，请查看本文下方常见问题部分的详细介绍！
