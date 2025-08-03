@@ -24,7 +24,7 @@ OK，在正式开始介绍ChatGPT注册流程之前，我们也想悄悄地提�
 
 （2）一个稳定的国外电子邮箱，而且最好是Gmail邮箱，尽量避免使用163和QQ等国内邮箱。如果你还没有Gmail邮箱，或者不会注册Gmail邮箱，那么也可以直接通过"<a href="https://nf.video/BTgSc">银河录像局</a>"这个专业平台去购买一个完全独属于自己的Gmail邮箱。
 
-![](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-1.png)
+![ChatGPT注册和ChatGPT帐号购买教程：通过银河录像局购买Gmail邮箱！](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-1.png)
 
 OK，当你准备好以上两样东西之后，接下来就可以按照我们下面的详细流程开始注册ChatGPT帐号了。而且整个ChatGPT注册流程仅需5-10分钟，非常的简单方便。
 
@@ -76,7 +76,11 @@ OK，当你准备好以上两样东西之后，接下来就可以按照我们下
 
 * 银河录像局官网：<a href="https://nf.video/BTgSc">https://nf.video/BTgSc</a>
 
+![ChatGPT账号购买第一步：打开"银河录像局官网"，点击首页中的"AI服务"，然后选择"GPT3.5"](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-2.png)
+
 ### 第二步：使用支付宝完成ChatGPT账号购买，并按照系统提示完成后续操作。
+
+![ChatGPT账号购买第二步：使用支付宝完成ChatGPT账号购买，并按照系统提示完成后续操作](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-3.png)
 
 小提示：银河录像局不仅提供ChatGPT账号，还提供<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus拼车</a>、<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus账号购买</a>、<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>、<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>、<a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro账号购买</a>、<a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>、<a href="https://github.com/anyofai/netflix-hezu">Netflix合租</a>等服务！
 
@@ -127,6 +131,8 @@ ChatGPT支持在多种设备上使用，基本覆盖了我们日常使用的所�
 对于手机和平板用户，ChatGPT提供了专门的移动应用。iOS用户可以在App Store下载官方应用，Android用户则可以在Google Play商店找到对应版本。这些移动应用针对触屏操作做了优化，界面简洁，还支持语音输入，让你随时随地都能使用。当然，你也可以直接在手机浏览器中访问网页版，功能基本一样。
 
 重要提示：如果你无法从中国区App Store中下载ChatGPT iOS客户端，那么你可以通过"<a href="https://nf.video/BTgSc">银河录像局</a>"购买一个美区或日区的苹果Apple ID账号，然后就可以顺利地下载ChatGPT iOS客户端了！
+
+![ChatGPT注册和ChatGPT帐号购买教程：通过银河录像局购买美区苹果Apple ID帐号！](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-4.png)
 
 除了常见的电脑和手机，理论上任何能运行现代浏览器的设备都可以使用ChatGPT，比如智能电视、游戏主机等。而且不同设备之间的对话记录还能保持同步，切换使用非常方便。总的来说，ChatGPT的跨平台支持做得相当好，你几乎可以在任何联网设备上使用它。
 
