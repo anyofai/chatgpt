@@ -8,21 +8,21 @@ ChatGPT是近两年来最受欢迎、实用性最强的AI工具之一。作为Op
 
 <blockquote>
 
-* **重要提示一**：如果你现在还没有ChatGPT账号，并且也不想自己动手注册ChatGPT账号的话，那么你可以通过专业的第三方平台直接购买一个现成的ChatGPT账号。更多详情请查看：ChatGPT账号购买。
+* **重要提示一**：如果你现在还没有ChatGPT账号，并且也不想自己动手注册ChatGPT账号的话，那么你可以通过专业的第三方平台直接购买一个现成的ChatGPT账号。更多详情请查看：<a href="https://github.com/anyofai/chatgpt?tab=readme-ov-file#2025%E5%B9%B4%E6%9C%80%E5%8F%AF%E9%9D%A0%E7%9A%84chatgpt%E8%B4%A6%E5%8F%B7%E8%B4%AD%E4%B9%B0%E5%B9%B3%E5%8F%B0%E6%8E%A8%E8%8D%90">ChatGPT账号购买</a>。
 
-* **重要提示二**：由于政策原因，最安全可靠的WildCard野卡被迫停止运营了，就连不入流的BinGoCard等小型虚拟卡也被波及了。也就是说，目前国内用户几乎无法自己订阅ChatGPT Plus会员了！现如今国内用户若想继续使用ChatGPT Plus会员，基本上只有三条路可走：合租ChatGPT Plus会员、ChatGPT Plus代充值、购买ChatGPT Plus原生独立帐号！
+* **重要提示二**：由于政策原因，最安全可靠的WildCard野卡被迫停止运营了，就连不入流的BinGoCard等小型虚拟卡也被波及了。也就是说，目前国内用户几乎无法自己订阅ChatGPT Plus会员了！现如今国内用户若想继续使用ChatGPT Plus会员，基本上只有三条路可走：<a href="https://github.com/anyofai/chatgpt-plus-hezu">合租ChatGPT Plus会员</a>、<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>、<a href="https://github.com/anyofai/chatgpt-plus-hezu">购买ChatGPT Plus原生独立帐号</a>！
 
 </blockquote>
 
-OK，在正式开始介绍ChatGPT注册流程之前，我们也想悄悄地提醒一下大家，如果你想在iOS设备上下载ChatGPT客户端的话，请查看本文下方常见问题部分的详细介绍！
+OK，在正式开始介绍ChatGPT注册流程之前，我们也想悄悄地提醒一下大家，**如果你想在iOS设备上下载ChatGPT客户端的话**，请查看本文下方常见问题部分的详细介绍！
 
 ## 2025年中国网民注册ChatGPT前的准备工作
 
 正如我们在前文提到的，由于OpenAI尚未向中国用户开放服务，所以中国用户在注册ChatGPT帐号之前，必须要先准备好两样重要的东西。
 
-（1）一个安全稳定的科学上网工具，这玩意儿需要大家自行解决，我们在这里就不展开讨论了！当然，如果你实在解决不了科学上网的问题，那么你就只能选择"合租ChatGPT Plus会员"了，这样不仅不需要科学上网，也不需要注册ChatGPT帐号。
+（1）一个安全稳定的科学上网工具，这玩意儿需要大家自行解决，我们在这里就不展开讨论了！当然，如果你实在解决不了科学上网的问题，那么你就只能选择"<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>"了，这样不仅不需要科学上网，也不需要注册ChatGPT帐号。
 
-（2）一个稳定的国外电子邮箱，而且最好是Gmail邮箱，尽量避免使用163和QQ等国内邮箱。如果你还没有Gmail邮箱，或者不会注册Gmail邮箱，那么也可以直接通过"银河录像局"这个专业平台去购买一个完全独属于自己的Gmail邮箱。
+（2）一个稳定的国外电子邮箱，而且最好是Gmail邮箱，尽量避免使用163和QQ等国内邮箱。如果你还没有Gmail邮箱，或者不会注册Gmail邮箱，那么也可以直接通过"<a href="https://nf.video/BTgSc">银河录像局</a>"这个专业平台去购买一个完全独属于自己的Gmail邮箱。
 
 OK，当你准备好以上两样东西之后，接下来就可以按照我们下面的详细流程开始注册ChatGPT帐号了。而且整个ChatGPT注册流程仅需5-10分钟，非常的简单方便。
 
@@ -64,7 +64,7 @@ OK，当你准备好以上两样东西之后，接下来就可以按照我们下
 
 ## 2025年最可靠的ChatGPT账号购买平台推荐
 
-正如我们在前文提到的，如果你不想自己动手注册ChatGPT账号，那么也可以通过专业的第三方平台直接购买一个现成的ChatGPT账号。而在众多ChatGPT账号购买平台中，我们最推荐：银河录像局！
+正如我们在前文提到的，如果你不想自己动手注册ChatGPT账号，那么也可以通过专业的第三方平台直接购买一个现成的ChatGPT账号。而在众多ChatGPT账号购买平台中，我们最推荐：<a href="https://nf.video/BTgSc">银河录像局</a>！
 
 银河录像局成立于2019年，由专业团队运营，已在工信部完成备案（备案号：浙ICP备2022036459号），拥有ICP经营许可证（浙B2-20230847），能够为用户提供足够的安全保障。
 
@@ -72,11 +72,11 @@ OK，当你准备好以上两样东西之后，接下来就可以按照我们下
 
 ### 第一步：打开"银河录像局官网"，点击首页中的"AI服务"，然后选择"GPT3.5"。
 
-* 银河录像局官网：https://nf.video/BTgSc
+* 银河录像局官网：<a href="https://nf.video/BTgSc">https://nf.video/BTgSc</a>
 
 ### 第二步：使用支付宝完成ChatGPT账号购买，并按照系统提示完成后续操作。
 
-小提示：银河录像局不仅提供ChatGPT账号，还提供ChatGPT Plus合租、ChatGPT Plus账号购买、ChatGPT Plus代充值、Claude Pro合租、Claude Pro账号购买、Claude Pro代充值、Netflix合租等服务！
+小提示：银河录像局不仅提供ChatGPT账号，还提供<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus拼车</a>、<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus账号购买</a>、<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>、<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>、<a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro账号购买</a>、<a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>、<a href="https://github.com/anyofai/netflix-hezu">Netflix合租</a>等服务！
 
 ## ChatGPT注册和使用的常见问题
 
@@ -124,7 +124,7 @@ ChatGPT支持在多种设备上使用，基本覆盖了我们日常使用的所�
 
 对于手机和平板用户，ChatGPT提供了专门的移动应用。iOS用户可以在App Store下载官方应用，Android用户则可以在Google Play商店找到对应版本。这些移动应用针对触屏操作做了优化，界面简洁，还支持语音输入，让你随时随地都能使用。当然，你也可以直接在手机浏览器中访问网页版，功能基本一样。
 
-重要提示：如果你无法从中国区App Store中下载ChatGPT iOS客户端，那么你可以通过"银河录像局"购买一个美区或日区的苹果Apple ID账号，然后就可以顺利地下载ChatGPT iOS客户端了！
+重要提示：如果你无法从中国区App Store中下载ChatGPT iOS客户端，那么你可以通过"<a href="https://nf.video/BTgSc">银河录像局</a>"购买一个美区或日区的苹果Apple ID账号，然后就可以顺利地下载ChatGPT iOS客户端了！
 
 除了常见的电脑和手机，理论上任何能运行现代浏览器的设备都可以使用ChatGPT，比如智能电视、游戏主机等。而且不同设备之间的对话记录还能保持同步，切换使用非常方便。总的来说，ChatGPT的跨平台支持做得相当好，你几乎可以在任何联网设备上使用它。
 
