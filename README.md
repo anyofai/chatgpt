@@ -12,8 +12,6 @@ ChatGPT是近两年来最受欢迎、实用性最强的AI工具之一。作为Op
 
 * **重要提示二**：由于政策原因，最安全可靠的WildCard野卡被迫停止运营了，就连不入流的BinGoCard等小型虚拟卡也被波及了。也就是说，目前国内用户几乎无法自己订阅ChatGPT Plus会员了！现如今国内用户若想继续使用ChatGPT Plus会员，基本上只有三条路可走：<a href="https://github.com/anyofai/chatgpt-plus-hezu">合租ChatGPT Plus会员</a>、<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>、<a href="https://github.com/anyofai/chatgpt-plus-hezu">购买ChatGPT Plus原生独立帐号</a>！
 
-![](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-1.png)
-
 </blockquote>
 
 OK，在正式开始介绍ChatGPT注册流程之前，我们也想悄悄地提醒一下大家，**如果你想在iOS设备上下载ChatGPT客户端的话**，请查看本文下方常见问题部分的详细介绍！
@@ -25,6 +23,8 @@ OK，在正式开始介绍ChatGPT注册流程之前，我们也想悄悄地提�
 （1）一个安全稳定的科学上网工具，这玩意儿需要大家自行解决，我们在这里就不展开讨论了！当然，如果你实在解决不了科学上网的问题，那么你就只能选择"<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>"了，这样不仅不需要科学上网，也不需要注册ChatGPT帐号。
 
 （2）一个稳定的国外电子邮箱，而且最好是Gmail邮箱，尽量避免使用163和QQ等国内邮箱。如果你还没有Gmail邮箱，或者不会注册Gmail邮箱，那么也可以直接通过"<a href="https://nf.video/BTgSc">银河录像局</a>"这个专业平台去购买一个完全独属于自己的Gmail邮箱。
+
+![](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-1.png)
 
 OK，当你准备好以上两样东西之后，接下来就可以按照我们下面的详细流程开始注册ChatGPT帐号了。而且整个ChatGPT注册流程仅需5-10分钟，非常的简单方便。
 
