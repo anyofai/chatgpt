@@ -1,8 +1,8 @@
-# 最新ChatGPT注册教程：2025年国内如何注册ChatGPT帐号？
+# 最新ChatGPT注册教程：2025年如何注册ChatGPT帐号？如何购买ChatGPT帐号？
 
 <p align="center">最近更新于：2025年7月20日</p>
 
-![最新ChatGPT注册教程：国内如何注册ChatGPT帐号](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C.png)
+![最新ChatGPT注册教程：2025年如何注册ChatGPT帐号？如何购买ChatGPT帐号？](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C.png)
 
 ChatGPT是最近这两年最火爆且最好用的AI工具之一，作为OpenAI推出的大型语言模型，它不仅能够进行智能对话，还具备强大的文本生成、翻译、代码编写等多种功能。然而，令人遗憾的是，OpenAI目前尚未向中国大陆用户开放，这意味着中国用户暂时无法直接注册或使用ChatGPT。那么，中国用户该如何注册ChatGPT帐号？如何订阅ChatGPT Plus会员？如何正确使用ChatGPT？我们这篇ChatGPT中文教程将为大家详细解答这些问题，帮助你在中国大陆轻松完成ChatGPT的注册、订阅，并正确高效地使用这款强大的AI工具。
 
