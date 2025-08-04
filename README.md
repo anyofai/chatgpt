@@ -44,25 +44,25 @@ OK，当你准备好以上两样东西之后，接下来就可以按照我们下
 
 注意：你也可以使用现有的Google帐号、Microsoft帐号或Apple帐号登录。
 
-![最新ChatGPT注册教程：国内注册ChatGPT帐号步骤二：输入你的电子邮箱，并点击“继续”按钮](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C-2.png)
+![最新ChatGPT注册教程，国内注册ChatGPT帐号步骤二：输入你的电子邮箱，并点击“继续”按钮](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C-2.png)
 
 ### 步骤三：设置账户密码，并点击“继续”按钮。
 
-![最新ChatGPT注册教程：国内注册ChatGPT帐号步骤三：设置账户密码，并点击“继续”按钮](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C-3.png)
+![最新ChatGPT注册教程，国内注册ChatGPT帐号步骤三：设置账户密码，并点击“继续”按钮](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C-3.png)
 
 ### 步骤四：查看电子邮箱并完成邮箱验证。
 
 打开你的电子邮箱，找到一封来自OpenAI的验证邮件，点击邮件中的“Verify email address”按钮以完成验证。
 
-![最新ChatGPT注册教程：国内注册ChatGPT帐号步骤四：查看电子邮箱并完成邮箱验证](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C-4.png)
+![最新ChatGPT注册教程，国内注册ChatGPT帐号步骤四：查看电子邮箱并完成邮箱验证](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C-4.png)
 
 ### 步骤五：填写姓名和出生日期等信息。
 
-![最新ChatGPT注册教程：国内注册ChatGPT帐号步骤五：填写姓名和出生日期等信息](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C-5.png)
+![最新ChatGPT注册教程，国内注册ChatGPT帐号步骤五：填写姓名和出生日期等信息](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C-5.png)
 
 ### 步骤六：完成ChatGPT注册，开始使用！
 
-![最新ChatGPT注册教程：国内注册ChatGPT帐号步骤六：完成ChatGPT注册，开始使用](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C-6.png)
+![最新ChatGPT注册教程，国内注册ChatGPT帐号步骤六：完成ChatGPT注册，开始使用](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C-6.png)
 
 注意：市面上有很多过时的ChatGPT注册教程，仍然要求用户进行手机号码验证。在ChatGPT推出初期，用户确实需要完成手机验证，而且大陆+86手机号无法用于注册。但是从2024年开始，注册ChatGPT账号已经不再需要手机验证，只有在注册ChatGPT API账号时才需要进行手机号码验证。
 
