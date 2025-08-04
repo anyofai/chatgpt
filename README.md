@@ -1,6 +1,6 @@
 # 最新ChatGPT注册教程：2025年如何注册ChatGPT帐号？如何购买ChatGPT帐号？
 
-<p align="center">最近更新于：2025年8月3日</p>
+<p align="center">最近更新于：2025年8月4日</p>
 
 ![最新ChatGPT注册教程：2025年如何注册ChatGPT帐号？如何购买ChatGPT帐号？](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C.png)
 
@@ -16,7 +16,7 @@ ChatGPT是近两年来最受欢迎、实用性最强的AI工具之一。作为Op
 
 OK，在正式开始介绍ChatGPT注册流程之前，我们也想悄悄地提醒一下大家，**如果你想在iOS设备上下载ChatGPT客户端的话**，请查看本文下方常见问题部分的详细介绍！
 
-## 2025年中国网民注册ChatGPT前的准备工作
+## 2025年中国用户注册ChatGPT前的准备工作
 
 正如我们在前文提到的，由于OpenAI尚未向中国用户开放服务，所以中国用户在注册ChatGPT帐号之前，必须要先准备好两样重要的东西。
 
