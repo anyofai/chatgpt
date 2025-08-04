@@ -10,7 +10,7 @@ ChatGPT是近两年来最受欢迎、实用性最强的AI工具之一。作为Op
 
 * **重要提示一**：如果你现在还没有ChatGPT账号，并且也不想自己动手注册ChatGPT账号的话，那么你可以通过专业的第三方平台直接购买一个现成的ChatGPT账号。更多详情请查看：<a href="https://github.com/anyofai/chatgpt?tab=readme-ov-file#2025%E5%B9%B4%E6%9C%80%E5%8F%AF%E9%9D%A0%E7%9A%84chatgpt%E8%B4%A6%E5%8F%B7%E8%B4%AD%E4%B9%B0%E5%B9%B3%E5%8F%B0%E6%8E%A8%E8%8D%90">ChatGPT账号购买</a>。
 
-* **重要提示二**：由于政策原因，最安全可靠的WildCard野卡于2025年7月12日被迫停止运营了，就连不入流的BinGoCard等小型虚拟卡也被波及了。也就是说，目前国内用户已经无法自己订阅ChatGPT Plus会员了！如果你身处中国大陆，并且想要继续使用ChatGPT Plus会员的话，现在就只剩下三条路可走了，分别是：<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>、<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>、<a href="https://github.com/anyofai/chatgpt-plus-hezu">购买ChatGPT Plus原生独立帐号</a>！
+* **重要提示二**：由于政策原因，最安全可靠的WildCard野卡于2025年7月12日被迫停止运营了，就连不入流的BinGoCard等小型虚拟卡也被波及了。也就是说，目前国内用户已经无法自己订阅ChatGPT Plus会员了！如果你身处中国大陆，并且想要继续使用ChatGPT Plus会员的话，那么现在就只剩下三条路可以走了，分别是：<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>、<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>、<a href="https://github.com/anyofai/chatgpt-plus-hezu">购买ChatGPT Plus原生独立帐号</a>！
 
 </blockquote>
 
