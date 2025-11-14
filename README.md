@@ -20,7 +20,7 @@ OK，在正式开始介绍ChatGPT注册流程之前，我们也想悄悄地提�
 
 正如我们在前文提到的，由于OpenAI尚未向中国用户开放服务，所以中国用户在注册ChatGPT账号之前，必须要先准备好两样重要的东西。
 
-（1）**一个安全稳定的科学上网工具**，这玩意儿需要大家自行解决，我们这里就不展开讨论了！当然，如果你实在解决不了科学上网的问题，那么你可以使用<a href="https://nf.video/BTgSc">银河录像局</a>提供的“银河AI”服务（即ChatGPT Plus国内镜像站），这样不仅不需要科学上网，也不需要注册ChatGPT账号。
+（1）**一个安全稳定的科学上网工具**，这玩意儿需要大家自行解决，我们这里就不展开讨论了！当然，如果你实在解决不了科学上网的问题，那么你可以使用<a href="https://nf.video/BTgSc">银河录像局</a>提供的ChatGPT Plus镜像版，这样不仅不需要科学上网，也不需要注册ChatGPT账号。
 
 ![ChatGPT注册和ChatGPT账号购买教程：银河录像局提供ChatGPT Plus镜像服务](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-5.png)
 
