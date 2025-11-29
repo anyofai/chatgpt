@@ -1,6 +1,6 @@
 # 最新ChatGPT注册教程：2025年如何注册ChatGPT账号？如何购买ChatGPT账号？
 
-<p align="center">最近更新于：2025年11月26日</p>
+<p align="center">最近更新于：2025年11月29日</p>
 
 ![最新ChatGPT注册教程：2025年如何注册ChatGPT账号？如何购买ChatGPT账号？](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C.png)
 
