@@ -1,6 +1,6 @@
 # 最新ChatGPT注册教程：2025年如何注册ChatGPT账号？如何购买ChatGPT账号？
 
-<p align="center">最近更新于：2025年12月4日</p>
+<p align="center">最近更新于：2025年12月5日</p>
 
 ![最新ChatGPT注册教程：2025年如何注册ChatGPT账号？如何购买ChatGPT账号？](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C.png)
 
@@ -24,7 +24,7 @@ OK，在正式开始介绍ChatGPT注册流程之前，我们也想悄悄地提�
 
 ![ChatGPT注册和ChatGPT账号购买教程：银河录像局提供ChatGPT Plus镜像服务](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT-%E8%B4%A6%E5%8F%B7%E6%B3%A8%E5%86%8C-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-1.png)
 
-（2）**一个稳定的国外电子邮箱**，而且最好是Gmail邮箱，尽量避免使用163和QQ等国内邮箱。如果你还没有Gmail邮箱，或者不会注册Gmail邮箱，那么也可以直接通过"<a href="https://nf.video/BTgSc">银河录像局</a>"这个专业平台去购买一个专属于自己的Gmail邮箱。
+（2）**一个稳定的国外电子邮箱**，而且最好是Gmail邮箱，尽量避免使用163和QQ等国内邮箱。如果你还没有Gmail邮箱，或者不会注册Gmail邮箱，那么也可以直接通过"<a href="https://nf.video/BTgSc">银河录像局</a>"这个专业平台去获取一个专属于自己的Gmail邮箱。
 
 ![ChatGPT注册和ChatGPT账号购买教程：通过银河录像局购买Gmail邮箱！](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-1.png)
 
@@ -132,7 +132,7 @@ ChatGPT支持在多种设备上使用，基本覆盖了我们日常使用的所�
 
 对于手机和平板用户，ChatGPT提供了专门的移动应用。iOS用户可以在App Store下载官方应用，Android用户则可以在Google Play商店找到对应版本。这些移动应用针对触屏操作做了优化，界面简洁，还支持语音输入，让你随时随地都能使用。当然，你也可以直接在手机浏览器中访问网页版，功能基本一样。
 
-**重要提示**：如果你无法从中国区App Store中下载ChatGPT iOS客户端，那么你可以通过"<a href="https://nf.video/BTgSc">银河录像局</a>"购买一个美区或日区的苹果Apple ID账号，然后就可以顺利地下载ChatGPT iOS客户端了！
+**重要提示**：如果你无法从中国区App Store中下载ChatGPT iOS客户端，那么你可以通过"<a href="https://nf.video/BTgSc">银河录像局</a>"获取一个美区或日区的苹果Apple ID账号，然后就可以顺利地下载ChatGPT iOS客户端了！
 
 ![ChatGPT注册和ChatGPT账号购买教程：通过银河录像局购买美区苹果Apple ID账号！](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-4.png)
 
