@@ -84,7 +84,7 @@ OK，当你准备好以上两样东西之后，接下来就可以按照我们下
 
 ![ChatGPT账号购买第二步：使用支付宝完成ChatGPT账号购买，并按照系统提示完成后续操作](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-3.png)
 
-小提示：银河录像局不仅提供ChatGPT账号，还提供<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus拼车</a>、<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus账号购买</a>、<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>、<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>、<a href="https://github.com/anyofai/claude-pro">Claude Pro账号购买</a>、<a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>、<a href="https://github.com/anyofai/netflix-hezu">Netflix合租</a>等服务！
+小提示：银河录像局不仅提供ChatGPT账号，还提供<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT拼车</a>、<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT订阅</a>、<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>、<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>、<a href="https://github.com/anyofai/claude-pro">Claude Pro账号购买</a>、<a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>、<a href="https://github.com/anyofai/netflix-hezu">Netflix合租</a>等服务！
 
 ## ChatGPT注册和使用的常见问题
 
