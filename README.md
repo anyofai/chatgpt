@@ -170,7 +170,7 @@ OK，当掌握这些技巧后，你就能在国内环境下充分发挥ChatGPT�
 * <a href="https://github.com/anyofai/spotify-hezu">Spotify合租</a>：官方渠道采购，品质有保障！可享Spotify Premium所有权益！每月仅需12元！
 * <a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>：提供国内镜像直连、官方标准会员合租、官方Pro会员合租等三种服务！每月仅需27元！
 
-* <a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT代充</a>：最可靠的ChatGPT Plus代充值平台推荐，148元/月，提供全程质保，支持开具正规发票！
+* <a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT代充</a>：最可靠的ChatGPT Plus代充值平台推荐，121元/月，提供全程质保，支持开具正规发票！
 * <a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充</a>：最靠谱的Claude Pro代充值平台推荐！提供全程质保，支持开具发票！
 * <a href="https://github.com/anyofai/nf-video">银河录像局</a>：最靠谱的AI工具和流媒体合租平台！使用优惠码ANYOFAI可享九折优惠！
 * <a href="https://github.com/anyofai/video-site">国外视频网站</a>：本文将会为大家推荐十个2026年国外最受欢迎的视频网站！
