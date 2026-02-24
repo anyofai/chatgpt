@@ -1,6 +1,6 @@
 # 2026年最新ChatGPT注册教程：如何注册ChatGPT账号？如何购买ChatGPT账号？
 
-<p align="center">最近更新于：2026年2月11日</p>
+<p align="center">最近更新于：2026年2月24日</p>
 
 ![2026年最新ChatGPT注册教程：如何注册ChatGPT账号？如何购买ChatGPT账号？](https://raw.githubusercontent.com/anyofai/chatgpt/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C.png)
 
@@ -10,7 +10,7 @@ ChatGPT是近两年来最受欢迎、实用性最强的AI工具之一。作为Op
 
 * **重要提示一**：如果你现在还没有ChatGPT账号，并且也不想自己动手注册ChatGPT账号的话，那么你可以通过专业的第三方平台直接购买一个现成的ChatGPT账号。更多详情请查看：[ChatGPT账号购买](#2026%E5%B9%B4%E6%9C%80%E5%8F%AF%E9%9D%A0%E7%9A%84chatgpt%E8%B4%A6%E5%8F%B7%E8%B4%AD%E4%B9%B0%E5%B9%B3%E5%8F%B0%E6%8E%A8%E8%8D%90)
 
-* **重要提示二**：由于政策原因，最安全可靠的WildCard野卡于2025年7月12日被迫停止运营了，就连不入流的BinGoCard等小型虚拟卡也被波及了。也就是说，目前国内用户已经无法自己订阅ChatGPT Plus会员了！如果你身处中国大陆，并且想要继续使用ChatGPT Plus会员的话，那么现在就只剩下三条路可以走了，分别是：<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus账号共享</a>(27元/月)、<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT代充值</a>(148元/月)、<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus购买</a>(147元/月)！
+* **重要提示二**：由于政策原因，最安全可靠的WildCard野卡于2025年7月12日被迫停止运营了，就连不入流的BinGoCard等小型虚拟卡也被波及了。也就是说，目前国内用户已经无法自己订阅ChatGPT Plus会员了！如果你身处中国大陆，并且想要继续使用ChatGPT Plus会员的话，那么现在就只剩下三条路可以走了，分别是：<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus账号共享</a>(27元/月)、<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT代充值</a>(121元/月)、<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus购买</a>(117元/月)！
 
 </blockquote>
 
